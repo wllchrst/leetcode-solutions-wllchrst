@@ -4,3 +4,4 @@
 
 # Ignore all files without extensions
 *.
+.DS_Store
